@@ -1,6 +1,9 @@
 <h1>Hi, I'm Marlou! <br/><a href="https://github.com/MarlouQ">Project Manager</a>, <a href="https://www.linkedin.com/in/marlou-queniahan-22b34461">Business Analyst, IT Analyst, and Cybersecurity Enthusiast</a>
 
-##  Business Analyst Roels:
+##  Certifications:
+
+
+##  Business Analyst Roles:
 - Contract: technical scope identification and confirmation
 - Contract: expansion and extension
 - Product Discovery: Custom Social Media features and functions
